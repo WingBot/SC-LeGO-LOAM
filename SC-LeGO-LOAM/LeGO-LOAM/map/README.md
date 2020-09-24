@@ -1,3 +1,3 @@
 #### PCD map folder
 
-The final pcd map file will be save here.
+The final pcd and octo map file will be save here.
