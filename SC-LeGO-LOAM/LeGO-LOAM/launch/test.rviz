@@ -6,8 +6,6 @@ Panels:
       Expanded:
         - /Global Options1
         - /TF1/Frames1
-        - /base_link1/Status1
-        - /Map Cloud1
       Splitter Ratio: 0.7039999961853027
     Tree Height: 703
   - Class: rviz/Selection
@@ -66,6 +64,8 @@ Visualization Manager:
           Value: false
         map:
           Value: false
+        odom:
+          Value: true
         rear_left_wheel_link:
           Value: false
         rear_right_wheel_link:
@@ -405,7 +405,7 @@ Visualization Manager:
       Enabled: true
       Invert Rainbow: false
       Max Color: 255; 255; 255
-      Max Intensity: 2
+      Max Intensity: 0
       Min Color: 0; 0; 0
       Min Intensity: 0
       Name: Trajectory
@@ -483,8 +483,8 @@ Visualization Manager:
     - Alpha: 0.5
       Autocompute Intensity Bounds: true
       Autocompute Value Bounds:
-        Max Value: 7.835338592529297
-        Min Value: -3.1618905067443848
+        Max Value: 20.40597915649414
+        Min Value: -2.4469916820526123
         Value: true
       Axis: Y
       Channel Name: intensity
