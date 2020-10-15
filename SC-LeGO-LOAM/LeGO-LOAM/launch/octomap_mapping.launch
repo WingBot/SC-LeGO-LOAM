@@ -18,6 +18,7 @@
 		
 		<!-- data source to integrate (PointCloud2) -->
 		<remap from="cloud_in" to="/points2" />
+		<!-- <remap from="cloud_in" to="/points_map" /> -->
 	
 	</node>
 </launch>
