@@ -1,0 +1,7 @@
+image: /home/arsl/ws_wind/src/3D-SLAM/SC-LeGO-LOAM/SC-LeGO-LOAM/LeGO-LOAM/map/yard#100#1.pgm
+resolution: 0.100000
+origin: [-99.700002, -384.000012, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
