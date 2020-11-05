@@ -1,0 +1,7 @@
+image: /home/arsl/ws_wind/src/3D-SLAM/SC-LeGO-LOAM/SC-LeGO-LOAM/LeGO-LOAM/map/factory#3.pgm
+resolution: 0.100000
+origin: [-64.499997, -53.300000, -0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
